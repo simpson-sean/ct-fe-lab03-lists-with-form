@@ -1,13 +1,17 @@
-import { response } from "msw";
 
 const ARTICLE_COUNT = 10;
 
-export const formatArticles = (json) =>
-    json.map((articles) => ({
-        title: articles.title,
-        author: articles.author,
-        description: articles.description,
-    }));
+export const formatArticles = (json) => {
+    console.log(json);
+    return json.articles.map((article) => {
+     return   {
+        title: article.title,
+        author: article.author,
+        description: article.description,
+        }
+    });
+}
+
 
     export const fetchArticles = async () => {
         const res = await fetch(`https://newsapi.org/v2/everything?q=bitcoin&apiKey=${process.env.NEWS_API_KEY}`);

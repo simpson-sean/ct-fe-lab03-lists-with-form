@@ -3,7 +3,7 @@ import Controls from '../components/articles/Controls.jsx';
 import ArticleList from '../components/articles/ArticlesList.jsx';
 import { fetchArticles, fetchArticlesByAuthor } from '../services/newsAPI.js';
 
-export default class NewsSearch extends Component {
+export default class NewsContainer extends Component {
     state = {
         loading: true,
         articles: [], 
