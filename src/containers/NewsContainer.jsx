@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Controls from '../components/articles/Controls.jsx';
 import ArticleList from '../components/articles/ArticlesList.jsx';
-import { fetchArticles, fetchArticlesBySearch } from '../services/newsAPI.js';
+import { fetchArticlesBySearch } from '../services/newsAPI.js';
 
 export default class NewsContainer extends Component {
     state = {
@@ -11,7 +11,7 @@ export default class NewsContainer extends Component {
     };
 
     async componentDidMount() {
-        const articles = await fetchArticles();
+        const articles = await fetchArticlesBySearch();
         this.setState({ articles, loading: false});
     }
     
