@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticlesList displays a list of Articles 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li>
+    <figure>
+      <h1>
+        I like grapes
+      </h1>
+      <h3>
+        Farmer Dan
+      </h3>
+      <p>
+        Grapes make wine
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Ferrets make ok pets
+      </h1>
+      <h3>
+        Guy Ferreto
+      </h3>
+      <p>
+        They steal your things
+      </p>
+    </figure>
+  </li>
+</ul>
+`;
