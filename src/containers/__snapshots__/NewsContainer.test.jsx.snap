@@ -1,0 +1,280 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsContainer Test Renders a list of articles to page 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li>
+    <figure>
+      <h1>
+        Casual Parsing in JavaScript
+      </h1>
+      <h3>
+        not provided
+      </h3>
+      <p>
+        Over the last year and a half I've gotten really into writing parsers and
+parser-adjacent things like interpreters, transpilers, etc. I've done most of
+these projects in JavaScript, and I've settled into a nice little pattern that
+I re-use across projects. I …
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        AHS transferring patients out of Grande Prairie hospital to free space for COVID-19 care | Globalnews.ca - Globalnews.ca
+      </h1>
+      <h3>
+        Kaylen Small
+      </h3>
+      <p>
+        &lt;ol&gt;&lt;li&gt;AHS transferring patients out of Grande Prairie hospital to free space for COVID-19 care | Globalnews.ca  Globalnews.ca
+&lt;/li&gt;&lt;li&gt;QEII Hospital diverts patients to other facilities due to rise in COVID-19 patients  EverythingGP
+&lt;/li&gt;&lt;li&gt;Grande Prairi…
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Rolling Stones bandmates salute late drummer Charlie Watts
+      </h1>
+      <h3>
+        MIKE FULLER
+      </h3>
+      <p>
+        Members of the Rolling Stones have saluted their unshakeable drummer Charlie Watts, who died Tuesday at the age of 80.  Mick Jagger, the legendary rock...
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Carl Sagan Sued Apple For Calling Him A Butt-Head
+      </h1>
+      <h3>
+        Menezes
+      </h3>
+      <p>
+        Thus forcing courts to ponder "the undefined phrase 'butt-head'."
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Getting the maximum of your C compiler, for security
+      </h1>
+      <h3>
+        not provided
+      </h3>
+      <p>
+        Security-related flags and options for C compilers
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        EXCLUSIVE Fed's Bostic says 'reasonable' to begin bond-buying taper in October - Reuters
+      </h1>
+      <h3>
+        Howard Schneider
+      </h3>
+      <p>
+        It would be "reasonable" for the Federal Reserve to trim its bond-buying program beginning in October if strong job gains continue, Atlanta Fed President Raphael Bostic said in the latest call by a U.S. central banker to start tapering the purchases soon and …
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        EXCLUSIVE-Fed's Bostic says 'reasonable' to begin bond-buying taper in October - Reuters
+      </h1>
+      <h3>
+        Howard Schneider
+      </h3>
+      <p>
+        It would be "reasonable" for the Federal Reserve to trim its bond-buying program beginning in October if strong job gains continue, Atlanta Fed President Raphael Bostic said in the latest call by a U.S. central banker to start tapering the purchases soon and …
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        EXCLUSIVE-Fed's Bostic says 'reasonable' to begin bond-buying taper in October - Reuters
+      </h1>
+      <h3>
+        Howard Schneider
+      </h3>
+      <p>
+        It would be "reasonable" for the Federal Reserve to trim its bond-buying program beginning in October if strong job gains continue, Atlanta Fed President Raphael Bostic said in the latest call by a U.S. central banker to start tapering the purchases soon and …
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        IETF rates itself 'minimally acceptable' on key measures of community, efficacy
+      </h1>
+      <h3>
+        Simon Sharwood
+      </h3>
+      <p>
+        Internet standards body admits to gender issues, communications problems, pledges fix for undefined 'high priority concerns'
+The Internet Engineering Task Force (IETF), the open standards organisation that defines and develops internet standards, has surveyed…
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        How we met: ‘I thought, there’s a hottie in philosophy class!’
+      </h1>
+      <h3>
+        Lizzie Cernik
+      </h3>
+      <p>
+        Zoe, 37, and Tim, 45, met at night school in 2012 and were engaged six weeks later. They live in York with their two dogsWhen Zoe split up with her boyfriend in 2012, she had “a bit of an existential crisis”. Though she enjoyed her job as a support worker for…
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Understanding a static analysis pass in JavaScriptCore JIT
+      </h1>
+      <h3>
+        Haoran Xu
+      </h3>
+      <p>
+        Recently I’ve been spending time to understand some internals of JavaScriptCore (JSC), the Javascript JIT compiler powering the Safari browser. For background knowledge, I strongly recommend this grea
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        City of London COVID-19 vaccine policy to come into full force October 1 - Global News
+      </h1>
+      <h3>
+        jlebel980
+      </h3>
+      <p>
+        &lt;ol&gt;&lt;li&gt;City of London COVID-19 vaccine policy to come into full force October 1  Global News
+&lt;/li&gt;&lt;li&gt;London's draft vaccine policy doesn't apply to councillors, deputy mayor wants a 2nd one that will  CBC.ca
+&lt;/li&gt;&lt;li&gt;Toronto city employees could be fired …
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Collatz-like behavior of Busy Beavers
+      </h1>
+      <h3>
+        Shawn Ligocki
+      </h3>
+      <p>
+        Nick Drozd just announced a new 4x2 Beeping Busy Beaver champion (BBB(4, 2)). This is a 4-state, 2-symbol Turing Machine which runs for 32,779,478 steps only to produce a blank tape and then run off to left forever in state C. As far as I can tell, the previo…
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Progammiersprache: Kotlin/JS Inspection Pack vereinfacht die Compiler-Migration
+      </h1>
+      <h3>
+        Maika Möbus
+      </h3>
+      <p>
+        Das neue Plug-in Kotlin/JS Inspection Pack bietet Inspections und Quick-Fixes für die Migration zum Kotlin/JS IR Compiler.
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Error'd: Occidentally
+      </h1>
+      <h3>
+        Lyle Seaman
+      </h3>
+      <p>
+        We like to think of Error'd as a safe place for pedants.
+
+Fussbudgets, hair-splitters, nitpickers, and pernickity sticklers
+for the Oxford comma, come in. After all, if not for the "technically correct" (and honestly,
+what other kind of correctness is there?)…
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Nelua Programming Language
+      </h1>
+      <h3>
+        Eduardo Bart
+      </h3>
+      <p>
+        Minimal, simple, efficient, statically typed, compiled, meta programmable, safe and extensible systems programming language with a Lua flavor.
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Programmiersprache: TypeScript 4.4 erweitert sein Typverständnis
+      </h1>
+      <h3>
+        Rainald Menge-Sonnentag
+      </h3>
+      <p>
+        Eine tiefere Kontrollflussanalyse erkennt Typdeklarationen auch außerhalb des aktuellen Blocks.
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Why the Hustle-and-Grind Entrepreneurial Mentality is Unhealthy, and What Simone Biles Can Teach You About Changing It
+      </h1>
+      <h3>
+        Leslie Hassler
+      </h3>
+      <p>
+        How placing emphasis on wellbeing and quality of life is good for business.
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        Linux 5.15 Further Tunes Its RISC-V Support
+      </h1>
+      <h3>
+        not provided
+      </h3>
+      <p>
+        The RISC-V architecture updates have landed in the Linux 5.15 kernel with more software features now being supported...
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h1>
+        The Descent to C (2013)
+      </h1>
+      <h3>
+        not provided
+      </h3>
+      <p>
+        Comments
+      </p>
+    </figure>
+  </li>
+</ul>
+`;
