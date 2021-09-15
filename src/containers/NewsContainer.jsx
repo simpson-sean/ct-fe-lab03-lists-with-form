@@ -35,7 +35,7 @@ export default class NewsContainer extends Component {
         return (
             <>
                 <Controls
-                  search={search}
+                  topic={search}
                   onTopicSearch={this.handleTopicSearch}
                   onSubmit={this.handleSubmit}
                 />

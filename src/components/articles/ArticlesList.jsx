@@ -4,8 +4,8 @@ import Article from './Article'
 
 const ArticleList = ({ articles }) => (
     <ul aria-label="articles">
-        {articles.map(({ title, author, description }) => (
-            <li key={`${title}-${author}`}>
+        {articles.map(({ title, author, description }, index) => (
+            <li key={`${title}-${author}-${index}`}>
                 <Article
                     title={title}
                     author={author}
@@ -17,7 +17,7 @@ const ArticleList = ({ articles }) => (
 );
 
 ArticleList.propTypes = {
-    artciles: PropTypes.arrayOf(
+    articles: PropTypes.arrayOf(
         PropTypes.shape({
             title: PropTypes.string.isRequired,
             author: PropTypes.string.isRequired,

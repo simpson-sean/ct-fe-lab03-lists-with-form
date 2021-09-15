@@ -10,6 +10,7 @@ const Controls = ({ topic, onTopicSearch, onSubmit }) => (
             value={topic}
             onChange={onTopicSearch}
         />
+        <button>Search Articles</button>
     </form>
 );
 
