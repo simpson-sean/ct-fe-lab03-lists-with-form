@@ -4,7 +4,7 @@ import Article from './Article'
 
 const ArticleList = ({ articles }) => (
     <ul aria-label="articles">
-        {articles?.map(({ title, author, description }, index) => (
+        {articles.map(({ title, author, description }, index) => (
             <li key={`${title}-${author}-${index}`}>
                 <Article
                     title={title}
