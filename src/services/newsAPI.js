@@ -1,7 +1,6 @@
 //const ARTICLE_COUNT = 10;
 
 export const formatArticles = (json) => {
-    console.log(json);
     return json.articles.map((article) => {
      return   {
         title: article.title,

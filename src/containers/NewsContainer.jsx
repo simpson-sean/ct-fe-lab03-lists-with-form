@@ -7,7 +7,7 @@ export default class NewsContainer extends Component {
     state = {
         loading: true,
         articles: [], 
-        search: '',
+        search: 'JavaScript',
     };
 
     async componentDidMount() {

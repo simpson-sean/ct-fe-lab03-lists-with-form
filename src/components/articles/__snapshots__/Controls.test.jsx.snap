@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Controls displays a form with an input and submit button 1`] = `
+<form
+  data-testid="news-form"
+>
+  <label
+    for="topic"
+  >
+    Topic Search
+  </label>
+  <input
+    id="topic"
+    type="text"
+    value="JavaScript"
+  />
+  <button
+    aria-label="find-articles"
+  >
+    Search Articles
+  </button>
+</form>
+`;

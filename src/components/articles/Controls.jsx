@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const Controls = ({ topic, onTopicSearch, onSubmit }) => (
-    <form onSubmit={onSubmit}>
+    <form onSubmit={onSubmit} data-testid="news-form">
         <label htmlFor="topic">Topic Search</label>
         <input
             id="topic"
@@ -10,7 +10,7 @@ const Controls = ({ topic, onTopicSearch, onSubmit }) => (
             value={topic}
             onChange={onTopicSearch}
         />
-        <button>Search Articles</button>
+        <button aria-label='find-articles'>Search Articles</button>
     </form>
 );
 
